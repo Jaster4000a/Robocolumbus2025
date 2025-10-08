@@ -20,10 +20,10 @@
     ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707
 #### Load Simulator World with rviz
     ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707 rviz:=True
-Intel Realsense D405 Camera:
-Source: https://github.com/IntelRealSense/realsense-ros
-Load intel realsense viewer (--debug is optional)
+#### Intel Realsense D405 Camera:
+#### Source: https://github.com/IntelRealSense/realsense-ros
+#### Load intel realsense viewer (--debug is optional)
     realsense-viewer --debug
-Publish camera topics (ros wrapper)
+#### Publish camera topics (ros wrapper)
     ros2 run realsense2_camera realsense2_camera_node
     
