@@ -15,15 +15,15 @@
     ros2 topic info <TOPIC NAME> (tells you about data type)
         
 ### Gazebo Simulator with Clearpath robot: 
-        Source: https://docs.clearpathrobotics.com/docs/ros2humble/ros/tutorials/simulator/install/
-        Load Simulator World
-            ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707
-        Load Simulator World with rviz
-            ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707 rviz:=True
-    Intel Realsense D405 Camera:
-        Source: https://github.com/IntelRealSense/realsense-ros
-        Load intel realsense viewer (--debug is optional)
-            realsense-viewer --debug
-        Publish camera topics (ros wrapper)
-            ros2 run realsense2_camera realsense2_camera_node
+#### Source: https://docs.clearpathrobotics.com/docs/ros2humble/ros/tutorials/simulator/install/
+#### Load Simulator World
+    ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707
+#### Load Simulator World with rviz
+    ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707 rviz:=True
+Intel Realsense D405 Camera:
+Source: https://github.com/IntelRealSense/realsense-ros
+Load intel realsense viewer (--debug is optional)
+    realsense-viewer --debug
+Publish camera topics (ros wrapper)
+    ros2 run realsense2_camera realsense2_camera_node
     
