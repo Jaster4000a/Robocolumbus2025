@@ -4,6 +4,7 @@
     - Computer: Nvidia Jetson Orin NX
     - Firmware: Jetpack 6.0
     - GPU: 15.3 GB (16GB)
+    - Camera: Intel Realsense D405
 
 ## 1) Before running anything, you need to source the ros environment
     source /opt/ros/humble/setup.bash
