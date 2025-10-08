@@ -4,6 +4,8 @@
     - Computer: Nvidia Jetson Orin NX
     - Firmware: Jetpack 6.0
     - GPU: 15.3 GB (16GB)
+    - ROS Version: Ros2 Humble
+    - Ubuntu Version: 22.04.05 LTS
     - Camera: Intel Realsense D405
 
 ## 1) Before running anything, you need to source the ros environment
