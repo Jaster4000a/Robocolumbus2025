@@ -1,14 +1,14 @@
 # Robocolumbus2025
 
 ## 0) General Information
-    **Computer:** Nvidia Jetson Orin NX
-    **Firmware:** Jetpack 6.0
-    **GPU:** 15.3 GB (16GB)
+    - Computer: Nvidia Jetson Orin NX
+    - Firmware: Jetpack 6.0
+    - **GPU:** 15.3 GB (16GB)
     
+---
+
 ## 1) Before running anything, you need to source the ros environment
-    ```bash
     source /opt/ros/humble/setup.bash
-    ```
 
 ### 2) Common Commands
     ros2 topic commands:
