@@ -1,0 +1,9 @@
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/uninstall.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/columbus_viz_uninstall.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/test.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/edit_cache.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/rebuild_cache.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/list_install_components.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/install.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/install/local.dir
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_viz/CMakeFiles/install/strip.dir

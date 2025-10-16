@@ -1,0 +1,5 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/launch/nav2.launch.py
+-- Symlinking: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/maps/warehouse.pgm
+-- Symlinking: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/maps/warehouse.yaml

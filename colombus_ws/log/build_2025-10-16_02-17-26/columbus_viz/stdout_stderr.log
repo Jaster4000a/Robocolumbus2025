@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/launch/view_diagnostics.launch.py
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/launch/view_model.launch.py
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/launch/view_moveit.launch.py
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/launch/view_navigation.launch.py
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/launch/view_robot.launch.py
+-- Symlinking: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/rviz/columbus.rviz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/rviz/model.rviz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/rviz/moveit.rviz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/rviz/nav2.rviz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/rviz/robot.rviz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/ament_index/resource_index/package_run_dependencies/columbus_viz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/ament_index/resource_index/parent_prefix_path/columbus_viz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/environment/path.sh
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/environment/path.dsv
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/local_setup.bash
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/local_setup.sh
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/local_setup.zsh
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/local_setup.dsv
+-- Symlinking: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/package.dsv
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/ament_index/resource_index/packages/columbus_viz
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/cmake/columbus_vizConfig.cmake
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/cmake/columbus_vizConfig-version.cmake
+-- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_viz/share/columbus_viz/package.xml

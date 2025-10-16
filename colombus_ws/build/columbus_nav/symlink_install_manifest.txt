@@ -1,0 +1,15 @@
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/ament_index/resource_index/package_run_dependencies/columbus_nav
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/ament_index/resource_index/parent_prefix_path/columbus_nav
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/environment/ament_prefix_path.sh
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/environment/ament_prefix_path.dsv
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/environment/path.sh
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/environment/path.dsv
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/local_setup.bash
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/local_setup.sh
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/local_setup.zsh
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/local_setup.dsv
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/package.dsv
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/ament_index/resource_index/packages/columbus_nav
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/cmake/columbus_navConfig.cmake
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/cmake/columbus_navConfig-version.cmake
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_nav/share/columbus_nav/package.xml

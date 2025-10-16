@@ -22,7 +22,7 @@
 #### Load Simulator World
     ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707
 #### Load Simulator World with rviz
-    ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707 rviz:=True
+    ros2 launch clearpath_gz simulation.launch.py world:=simple_baylands x:=10 yaw:=1.5707 rviz:=true
 #### Intel Realsense D405 Camera:
 #### Source: https://github.com/IntelRealSense/realsense-ros
 #### Load intel realsense viewer (--debug is optional)
@@ -30,3 +30,10 @@
 #### Publish camera topics (ros wrapper)
     ros2 run realsense2_camera realsense2_camera_node
     
+    
+    ros2 launch clearpath_nav2_demos run_gps_waypoint_client.launch.py waypoints_file:='/home/rover/clearpath_ws/src/clearpath_waypoint_client/waypoints_example.yaml' frame_id:='map'
+
+# Important Commands to Run Rover:
+## 1) Run Lidar, Camera, GPS, etc
+## 2) Generate Costmap
+    ros2 run nav2_costmap_2d nav2_costmap_2d_markers voxel_grid:=/local_costmap/voxel_grid visualization_marker:=/my_marker

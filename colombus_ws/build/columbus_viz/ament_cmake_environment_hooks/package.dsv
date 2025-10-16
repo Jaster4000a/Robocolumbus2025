@@ -1,0 +1,4 @@
+source;share/columbus_viz/local_setup.bash
+source;share/columbus_viz/local_setup.dsv
+source;share/columbus_viz/local_setup.sh
+source;share/columbus_viz/local_setup.zsh

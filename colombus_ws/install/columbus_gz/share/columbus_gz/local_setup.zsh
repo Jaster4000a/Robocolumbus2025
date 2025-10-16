@@ -1,0 +1,1 @@
+/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz/ament_cmake_environment_hooks/local_setup.zsh

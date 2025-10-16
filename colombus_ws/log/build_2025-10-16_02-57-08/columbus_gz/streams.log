@@ -1,0 +1,27 @@
+[0.043s] Invoking command in '/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz -- -j8 -l8
+[0.137s] Invoked command in '/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz -- -j8 -l8
+[0.152s] Invoking command in '/home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rover/Desktop/Robocolumbus2025/colombus_ws/build/columbus_gz
+[0.169s] -- Install configuration: ""
+[0.169s] -- Execute custom install script
+[0.170s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/launch/gz_sim.launch.py
+[0.170s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/launch/robot_spawn.launch.py
+[0.170s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/launch/simulation.launch.py
+[0.170s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/config/gui.config
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/worlds/garden.sdf
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/worlds/simple_baylands.sdf
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/worlds/warehouse.sdf
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/ament_index/resource_index/package_run_dependencies/columbus_gz
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/ament_index/resource_index/parent_prefix_path/columbus_gz
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/environment/ament_prefix_path.sh
+[0.171s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/environment/ament_prefix_path.dsv
+[0.172s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/environment/path.sh
+[0.172s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/environment/path.dsv
+[0.172s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/local_setup.bash
+[0.179s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/local_setup.sh
+[0.180s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/local_setup.zsh
+[0.180s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/local_setup.dsv
+[0.180s] -- Symlinking: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/package.dsv
+[0.206s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/ament_index/resource_index/packages/columbus_gz
+[0.206s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/cmake/columbus_gzConfig.cmake
+[0.206s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/cmake/columbus_gzConfig-version.cmake
+[0.206s] -- Up-to-date symlink: /home/rover/Desktop/Robocolumbus2025/colombus_ws/install/columbus_gz/share/columbus_gz/package.xml

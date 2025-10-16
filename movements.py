@@ -358,7 +358,7 @@ if __name__ == '__main__':
         for i in range(4):
             ok = turn_to(-90, timeout=15.0, imu_node=imu_node)
             print('Success' if ok else 'Failed')
-            ok = drive_straight_time(1.0, 10.0, imu_node=imu_node)
+            ok = drive_straight_time(1.0, 3.0, imu_node=imu_node)
             print('Success' if ok else 'Failed')
     finally:
         try:
